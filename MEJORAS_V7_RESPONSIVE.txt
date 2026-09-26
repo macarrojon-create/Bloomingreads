@@ -1,0 +1,10 @@
+READBLOOM V7 — mejoras visuales
+
+- Interfaz adaptable a diferentes anchos de pantalla.
+- Biblioteca con columnas dinámicas y portadas proporcionales.
+- Cabecera y navegación adaptadas a teléfonos estrechos.
+- Más espacio y ancho de contenido configurable.
+- Más de 16 estéticas visuales con imágenes locales.
+- Más paletas y tipografías de sistema.
+- Nuevos controles de escala general, espaciado y ancho de contenido.
+- Se mantienen libros, retos, copias de seguridad e importación CSV.
